@@ -3,8 +3,8 @@ module github.com/hamedcodelab/logger
 go 1.23.7
 
 require (
-	github.com/hamedcodelab/configer v0.0.0-20250322135041-2c772b9a7702
-	go.uber.org/zap v1.21.0
+	github.com/hamedcodelab/configer v0.0.0-20250323093214-3445edc65732
+	go.uber.org/zap v1.27.0
 )
 
 require (
@@ -22,7 +22,7 @@ require (
 	github.com/spf13/viper v1.19.0 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
-	go.uber.org/multierr v1.9.0 // indirect
+	go.uber.org/multierr v1.10.0 // indirect
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
 	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
