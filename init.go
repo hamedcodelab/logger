@@ -9,6 +9,8 @@ import (
 	"os"
 )
 
+type Fields map[string]interface{}
+
 type logger struct {
 	config Config
 	logger *zap.Logger
